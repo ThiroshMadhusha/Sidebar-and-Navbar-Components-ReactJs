@@ -15,7 +15,7 @@ const navLinks = [
     display: "Sell Cars",
   },
   {
-    path: "/settings",
+    path: "/setting",
     icon: "ri-settings-2-line",
     display: "Settings",
   },
