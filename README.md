@@ -1,3 +1,7 @@
+# Side Bar & Nav Bar 
+
+![Screenshot_2](https://user-images.githubusercontent.com/79472177/192126878-dac5f9f8-92e3-45f1-951a-a48adffab37a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
